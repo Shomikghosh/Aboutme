@@ -13,7 +13,7 @@
   <img align="left" alt="Shomik | StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
 </a>
 <a href="https://www.hackerrank.com/shomikghosh2020">
-  <img align="left" alt="Shomik | Hackerrank" width="22px" style="background-color:blue;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/iconhackerrank.svg"/>
+  <img align="left" alt="Shomik | Hackerrank" width="22px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/iconhackerrank.svg"/>
 </a>
 <a href="https://www.codechef.com/users/mikosh">
   <img align="left" alt="Shomik | Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
@@ -33,7 +33,7 @@ After done being an Undergrad *Engineering* student of the Junior (*3rd*) Year, 
 ## About me
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=Shomikrk2k&show_icons=true"> -->
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Shomikghosh&count_private=true&show_icons=true&theme=dark">
-<!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shomikrk2k&layout=compact&theme=dark" /> -->
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shomikghoshk&layout=compact&theme=dark" />
 
 
 * :man_student: Studies Information Science and Engineering
