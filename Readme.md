@@ -1,4 +1,4 @@
-# Shomik Raykarmakar 
+# Shomik Ghosh 
 
 <a href="https://www.facebook.com/shomik.ghosh.31/">
   <img align="left" alt="Shomik | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
@@ -32,7 +32,7 @@ After done being an Undergrad *Engineering* student of the Junior (*3rd*) Year, 
 
 ## About me
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=Shomikrk2k&show_icons=true"> -->
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Shomikrk2k&count_private=true&show_icons=true&theme=dark">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Shomikghosh&count_private=true&show_icons=true&theme=dark">
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shomikrk2k&layout=compact&theme=dark" /> -->
 
 
