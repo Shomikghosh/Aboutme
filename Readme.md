@@ -1,4 +1,4 @@
-# Shomik Ghosh 
+<h3 align='center'> Hi ,there 👋</h1># Shomik Ghosh here
 
 <a href="https://www.facebook.com/shomik.ghosh.31/">
   <img align="left" alt="Shomik | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
@@ -13,7 +13,7 @@
   <img align="left" alt="Shomik | StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
 </a>
 <a href="https://www.hackerrank.com/shomikghosh2020">
-  <img align="left" alt="Shomik | Hackerrank" width="22px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/iconhackerrank.svg"/>
+  <img align="left" alt="Shomik | Hackerrank" width="22px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg"/>
 </a>
 <a href="https://www.codechef.com/users/mikosh">
   <img align="left" alt="Shomik | Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
@@ -26,20 +26,24 @@
 
 <img align="right" alt="Shomik | Avatar" width="100px" border-radius="50%" src="./Avatar.jpg" />
 
-After done being an Undergrad *Engineering* student of the Junior (*3rd*) Year, I love to solve problems through developing software. I'm always exploring new ways and technologies. Digging code, laughing at memes and writing my personal journal are constants from the universal set of hobbies! *Physics* and *Space* make me nerdy. 
+
+<a href="mailto:shomikghosh2020@gmail.com">
+  <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+</a>&nbsp;&nbsp;
+I am 2nd year undergraduate from <a href="https://jssstuniv.in/">JSS Science and Technology University</a>,pursuing Information Science and Engineering. Currently exploring the world of web development,laughing at some memes and always exploring new technology.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Shomikghosh&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## About me
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=Shomikrk2k&show_icons=true"> -->
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Shomikghosh&count_private=true&show_icons=true&theme=dark">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shomikghoshk&layout=compact&theme=dark" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shomikghosh&layout=compact&theme=dark" />
 
 
 * :man_student: Studies Information Science and Engineering
 * :computer: Writes code in C++ and Javascript
 * :open_book: Exploring Web Development
-* :cry: Strugling with Competitive coding 
+* :cry: Strugling with DSA
 * :video_game: Plays PC games
 
 <hr>
