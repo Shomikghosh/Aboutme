@@ -1,4 +1,4 @@
-<h3 align='center'> Hi ,there 👋</h1># Shomik Ghosh here
+<h1 align='center'> Hi ,there 👋 Shomik Ghosh here</h1>
 
 <a href="https://www.facebook.com/shomik.ghosh.31/">
   <img align="left" alt="Shomik | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
@@ -31,8 +31,11 @@
 
 
 I am 2nd year undergraduate from <a href="https://jssstuniv.in/">JSS Science and Technology University</a>,pursuing Information Science and Engineering. Currently exploring the world of web development,laughing at some memes and always exploring new technology.
+<br>
+<br>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shomikghosh&layout=compact&theme=dark" />
-
+<br>
+<br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=Shomikghosh&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## About me
