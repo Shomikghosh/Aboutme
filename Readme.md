@@ -13,7 +13,7 @@
   <img align="left" alt="Shomik | StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
 </a>
 <a href="https://www.hackerrank.com/shomikghosh2020">
-  <img align="left" alt="Shomik | Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg"/>
+  <img align="left" alt="Shomik | Hackerrank" width="22px" color="blue" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/iconhackerrank.svg"/>
 </a>
 <a href="https://www.codechef.com/users/mikosh">
   <img align="left" alt="Shomik | Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
@@ -24,7 +24,7 @@
 <br>
 <br>
 
-<img align="right" alt="Shomik | Avatar" width="100px" src="./Avatar.jpg" />
+<img align="right" alt="Shomik | Avatar" width="100px" border-radius="50%" src="./Avatar.jpg" />
 
 After done being an Undergrad *Engineering* student of the Junior (*3rd*) Year, I love to solve problems through developing software. I'm always exploring new ways and technologies. Digging code, laughing at memes and writing my personal journal are constants from the universal set of hobbies! *Physics* and *Space* make me nerdy. 
 
