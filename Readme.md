@@ -15,7 +15,7 @@
 <a href="https://www.hackerrank.com/shomikghosh2020">
   <img align="left" alt="Shomik | Hackerrank" width="22px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg"/>
 </a>
-<a href="https://www.codechef.com/users/mikosh"></a>
+<a href="https://www.codechef.com/users/mikosh">
   <img align="left" alt="Shomik | Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
 </a>
 <a href="mailto:shomikghosh2020@gmail.com">
