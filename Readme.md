@@ -30,7 +30,7 @@
 <img align="right" alt="Shomik | Avatar" width="100px" border-radius="50%" src="./Avatar.jpg" />
 
 
-I am 2nd year undergraduate from <a href="https://jssstuniv.in/">JSS Science and Technology University</a>,pursuing Information Science and Engineering. Currently exploring the world of web development,laughing at some memes and always exploring new technology.
+I am 3rd year undergraduate from <a href="https://jssstuniv.in/">JSS Science and Technology University</a>,pursuing Information Science and Engineering. Currently exploring the world of web development,laughing at some memes and always exploring new technology.
 <br>
 <br>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shomikghosh&layout=compact&theme=dark" />
@@ -64,17 +64,12 @@ I am 2nd year undergraduate from <a href="https://jssstuniv.in/">JSS Science and
 
 <!-- ![Shomik's github stats](https://github-readme-stats.vercel.app/api?username=Shomikrk2k&show_icons=true) -->
 
-<!--
-**Shomikrk2k/Shomikrk2k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently working on Placement-SJCE portal
+- 🌱 I’m currently learning Competitive Programming
+- 👯 I’m looking to collaborate on Open Source Projects
+- 🤔 I’m looking for help with Data Structure and Algorithms
+- 📫 How to reach me: shomikghosh2020@gmail.com
+
