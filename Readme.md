@@ -40,14 +40,17 @@ I am 3rd year undergraduate from <a href="https://jssstuniv.in/">JSS Science and
 
 ## About me
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=Shomikrk2k&show_icons=true"> -->
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Shomikghosh&count_private=true&show_icons=true&theme=dark">
 
-
-* :man_student: Studies Information Science and Engineering
+<p align="center">
+	
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Shomikghosh&show_icons=true&theme=calm" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shomikghosh&theme=calm" />
+</p>
+<!-- * :man_student: Studies Information Science and Engineering
 * :computer: Writes code in C++ and Javascript
 * :open_book: Exploring Web Development
 * :cry: Strugling with DSA
-* :video_game: Plays PC games
+* :video_game: Plays PC games -->
 
 <hr>
 <!--
