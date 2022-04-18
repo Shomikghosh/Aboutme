@@ -1,4 +1,4 @@
-<h1 align='center'> Hi ,there 👋 Shomik Ghosh here</h1>
+<h1 align='center'> Hi, there 👋 Shomik Ghosh here</h1>
 
 <a href="https://www.facebook.com/shomik.ghosh.31/">
   <img align="left" alt="Shomik | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
