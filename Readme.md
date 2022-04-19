@@ -27,7 +27,7 @@
 <br>
 <br>
 
-<img align="right" alt="Shomik | Avatar" width="100px" border-radius="50%" src="./Avatar.jpg" />
+<!-- <img align="right" alt="Shomik | Avatar" width="100px" border-radius="50%" src="./Avatar.jpg" /> -->
 
 
 I am 3rd year undergraduate from <a href="https://jssstuniv.in/">JSS Science and Technology University</a>,pursuing Information Science and Engineering. Currently exploring the world of web development,laughing at some memes and always exploring new technology.
