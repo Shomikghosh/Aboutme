@@ -33,7 +33,7 @@
 I am 3rd year undergraduate from <a href="https://jssstuniv.in/">JSS Science and Technology University</a>,pursuing Information Science and Engineering. Currently exploring the world of web development,laughing at some memes and always exploring new technology.
 <br>
 <br>
-<!--<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shomikghosh&layout=compact&theme=dark" />-->
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shomikghosh&layout=compact&theme=dark" />
 <br>
 <br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=Shomikghosh&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
